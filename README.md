@@ -1,1 +1,2 @@
-# tador
+# TADOR
+Firmware for TADOR products.
