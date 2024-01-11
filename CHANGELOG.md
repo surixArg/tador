@@ -1,7 +1,5 @@
 # Historial de cambios
 
----
-
 ### v0.1.9-XXX
 ###### Cambios realizados:
 * Foo
