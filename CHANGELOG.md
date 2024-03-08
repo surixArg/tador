@@ -1,25 +1,34 @@
-# Historial de cambios
+# Change History
+
+### v0.1.9-485
+###### ChangeLog:
+* The possibility of communication for an indefinite period of time was added.
+* Added function: Led1 is activated during communication
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-463) to download this version.
+
+---
 
 ### v0.1.9-463
-###### Cambios realizados:
-* Se corrige el restaurar a fabrica que no funcionaba en todas las plataformas, y se corrigen fallas en ipac 19.
+###### ChangeLog:
+* The factory restore that didn't work on all platforms is corrected, and ipac 19 errors are corrected.
 
-###### Haga [clic aquí](https://github.com/surixArg/tador/tree/main/v0.1.9-463) para descargar esta versión.
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-463) to download this version.
 
 ---
 
 ### v0.1.9-454
-###### Cambios realizados:
-* Se corrige f de lectura de línea de file system (si la última línea del archivo no tenía \0 o \n, devolvía mal la longitud) 
+###### ChangeLog:
+* Fixed file system line reading f (if the last line of the file did not have \0 or \n, it returned the wrong length)
 
-###### Haga [clic aquí](https://github.com/surixArg/tador/tree/main/v0.1.9-454) para descargar esta versión.
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-454) to download this version.
 
 ---
 
 ### v0.1.9-441
-###### Haga [clic aquí](https://github.com/surixArg/tador/tree/main/v0.1.9-441) para descargar esta versión.
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-441) to download this version.
 
 ---
 
 ### v0.1.9-411
-###### Haga [clic aquí](https://github.com/surixArg/tador/tree/main/v0.1.9-411) para descargar esta versión.
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-411) to download this version.
