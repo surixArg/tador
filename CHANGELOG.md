@@ -2,7 +2,7 @@
 
 ### v0.1.9-503
 ###### ChangeLog:
-* When using VoIP Bell, the number that user dials is automatically added 1000.
+* When using VoIP Bell, 1000 is automatically added to the number the user dials.
 
 ###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-503) to download this version.
 
