@@ -1,5 +1,13 @@
 # Change History
 
+### v0.1.9-503
+###### ChangeLog:
+* Added display accessory option for IP_ENTRIX products.
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-503) to download this version.
+
+---
+
 ### v0.1.9-485
 ###### ChangeLog:
 * The possibility of communication for an indefinite period of time was added.
