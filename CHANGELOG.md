@@ -2,7 +2,7 @@
 
 ### v0.1.9-503
 ###### ChangeLog:
-* Added display accessory option for IP_ENTRIX products.
+* When using VoIP Bell, the number that user dials is automatically added 1000.
 
 ###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-503) to download this version.
 
