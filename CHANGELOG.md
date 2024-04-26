@@ -1,5 +1,13 @@
 # Change History
 
+### v0.1.9-529
+###### ChangeLog:
+* Added a new way to factory reset the device by pressing "1" and "#" on a keyboard while rebooting.
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-529) to download this version.
+
+---
+
 ### v0.1.9-514
 ###### ChangeLog:
 * Added "product name" showing up in direct IP calls.
