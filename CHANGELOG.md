@@ -1,4 +1,13 @@
 # Change History
+---
+
+### v0.1.9-576
+###### ChangeLog:
+* New function added, when the doorman is configured with "auto answer" on "OFF" the key defined as pin (either * or #) will answer the incoming call.
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-576) to download this version.
+
+---
 
 ### v0.1.9-531
 
