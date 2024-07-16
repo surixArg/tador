@@ -1,6 +1,15 @@
 # Change History
 ---
 
+### v0.1.9-579
+###### ChangeLog:
+* Added DTMF dialing in call
+* Fix behaviour of Change mode and Hang up keys (* and #)
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-579) to download this version.
+
+---
+
 ### v0.1.9-576
 ###### ChangeLog:
 * New function added, when the doorman is configured with "auto answer" on "OFF" the key defined as pin (either * or #) will answer the incoming call.
