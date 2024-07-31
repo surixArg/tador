@@ -1,6 +1,14 @@
 # Change History
 ---
 
+### v0.1.9-580
+###### ChangeLog:
+* Fixed - Problem registering with 2632.nimbusip.com
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-580) to download this version.
+
+---
+
 ### v0.1.9-579
 ###### ChangeLog:
 * Added DTMF dialing in call
