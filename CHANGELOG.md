@@ -1,6 +1,15 @@
 # Change History
 ---
 
+### v0.1.9-583
+###### ChangeLog:
+* Fixed UDP socket handling
+* Adjusted audio output buffer handling
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-583) to download this version.
+
+---
+
 ### v0.1.9-582
 ###### ChangeLog:
 * Temporal feature - Automatic restart is implemented in case the codec gets stuck.
