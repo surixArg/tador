@@ -1,6 +1,32 @@
 # Change History
 ---
 
+### v0.1.9-612
+###### ChangeLog:
+* Added new function: "Use local IP" option on Network menú.
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-612) to download this version.
+
+---
+
+### v0.1.9-611
+###### ChangeLog:
+* Added firmware for IPAC_18_M4 platform
+* Updated firmware for IPAC_19 platform
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-611) to download this version.
+
+---
+
+### v0.1.9-607
+###### ChangeLog:
+* Added emergency PIN
+* Minor bugfixes
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-607) to download this version.
+
+---
+
 ### v0.1.9-583
 ###### ChangeLog:
 * Fixed UDP socket handling
