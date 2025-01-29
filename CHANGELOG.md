@@ -80,6 +80,9 @@
 ---
 
 ### v0.1.9-531
+###### ChangeLog:
+* Updated firmware for IPAC_19_2
+* Updated firmware for IPAC_20
 
 ###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-531) to download this version.
 
