@@ -1,11 +1,17 @@
 # Change History
 ---
+### v0.1.9-620
+###### ChangeLog:
+* New: Compatibility with Nimbusip
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-620) to download this version.
+
+---
 
 ### v0.1.9-618
 ###### ChangeLog:
-* Minor bug fixes.
-* Updated firmware for IPAC_19_2
-* Updated firmware for IPAC_19
+* Updated firmware for IPAC_19_2 platform
+* Updated firmware for IPAC_19 platform
 
 ###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-618) to download this version.
 
