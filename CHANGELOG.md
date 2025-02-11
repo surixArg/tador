@@ -1,5 +1,12 @@
 # Change History
 ---
+### v0.1.9-632
+###### ChangeLog:
+* Updated firmware for IPAC_C19_2 platform
+
+###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-632) to download this version.
+
+---
 ### v0.1.9-620
 ###### ChangeLog:
 * New: Compatibility with Nimbusip
@@ -20,7 +27,6 @@
 ### v0.1.9-614
 ###### ChangeLog:
 * Added new function: "Use local IP" option on Network menú.
-* Updated firmware for IPAC_19_2
 
 ###### [Click here](https://github.com/surixArg/tador/tree/main/v0.1.9-614) to download this version.
 
