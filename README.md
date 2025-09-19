@@ -7,4 +7,4 @@ Latest version for IPAC_18_M4, IPAC_19_2, IPAC_20, IPAC_C19: [v0.1.9-620](https:
 
 Latest version for IPAC_C19_2: [v0.1.9-634](https://github.com/surixArg/tador/tree/main/v0.1.9-634)
 
-Latest version for IPAC_19: [v0.1.9-742](https://github.com/surixArg/tador/tree/main/v0.1.9-742)
+Latest version for IPAC_19: [v0.1.9-760](https://github.com/surixArg/tador/tree/main/v0.1.9-760)
